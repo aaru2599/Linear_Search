@@ -1,3 +1,6 @@
+//Find the index value of target element in the Array, If not present in the Array return -1.
+
+
 package in.LinearSearch;
 
 public class Linesr_Search {
