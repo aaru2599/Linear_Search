@@ -7,7 +7,7 @@ public class Linesr_Search {
 	
 static int SearchInTheArray(int []arr,int target ) {
 	
-	for(int i=1;i<5;i++) {
+	for(int i=1;i<arr.length();i++) {
 		if(arr[i]==target) {
 			return i;
 		}
